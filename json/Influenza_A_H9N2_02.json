@@ -1,17 +1,17 @@
 {
-  "typeName": "Influenza A H9N2",
-  "onset": 7,
-  "duration": 7,
+  "typeName": "Influenza A H9N2b",
+  "onset": 5,
+  "duration": 17,
   "acuteSymptoms": [
-    "mild to severe",
-    "typical of influenza",
-    "more serious forms involve bronchitis",
+    "moderate to severe",
+    "somewhat typical of influenza",
+    "more serious forms involve brunch",
     "pneumonia",
-    "dehydration",
-    "febrile convulsions"
+    "hyperhydration",
+    "femur convulsions"
   ],
   "reservoirDetails": [
-    "Similar H9N2 detected in wild avian populations",
-    "Unknown for poultry"
+    "Similar H9N2 detected in wild squirrel populations",
+    "Unknown for chipmunks"
   ]
 }
