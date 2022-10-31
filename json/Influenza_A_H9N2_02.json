@@ -3,7 +3,7 @@
   "url": "https://en.wikipedia.org/wiki/Squirrelpox_virus",
   "onset": 5,
   "duration": 4,
-  "acuteSymptoms": 
+  "acuteSymptoms": [
     "lethargic",
     "skin fibromas (tumours)",
     "shivering",
