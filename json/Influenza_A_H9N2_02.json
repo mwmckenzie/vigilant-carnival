@@ -1,17 +1,21 @@
 {
-  "typeName": "Influenza A H9N2b",
+  "typeName": "Squirrelpox",
+  "url": "https://en.wikipedia.org/wiki/Squirrelpox_virus",
   "onset": 5,
-  "duration": 17,
-  "acuteSymptoms": [
-    "moderate to severe",
-    "somewhat typical of influenza",
-    "more serious forms involve brunch",
-    "pneumonia",
-    "hyperhydration",
-    "femur convulsions"
+  "duration": 4,
+  "acuteSymptoms": 
+    "lethargic",
+    "skin fibromas (tumours)",
+    "shivering",
+    "skin ulcers",
+    "lesions",
+    "scabs"
   ],
   "reservoirDetails": [
-    "Similar H9N2 detected in wild squirrel populations",
-    "Unknown for chipmunks"
+    "spread through contact with the infected lesions",
+    "Detected in wild squirrel populations",
+    "Unknown for chipmunks",
+    "can also be carried by mosquitoes",
+    "grey squirrels carry the virus but are unaffected"
   ]
 }
